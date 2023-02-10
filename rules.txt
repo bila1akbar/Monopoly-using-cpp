@@ -1,0 +1,15 @@
+Following are the rules in This monopoly game :  
+
+1. Player 1 will be represented as P1 (purple) on the monopoly board.
+
+2. Player 2 will be represented as P2 (green) on the monopoly board.
+
+3. Players can buy the property after landing on the location that wants to buy.
+
+4. If they landed on (Go to Jail or Jail) 500 rupees will be automatically deducted from their balance.
+
+5. If player land on a property owned by another player, the listed amount of rent will be deducted from that player.  
+
+6. Balance will be shown at the start of each turn and can also be seen from the menu.
+
+7. The first player to reach 0 balance will be declared bankrupt and will be the loser of the game.
